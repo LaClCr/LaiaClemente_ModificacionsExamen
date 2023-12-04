@@ -1,24 +1,20 @@
 import React from 'react';
-import {Text, View} from 'react-native';
+import {Text, View, ScrollView} from 'react-native';
 import {Avatar} from 'react-native-paper';
+import TarjetaProfe from './tarjetaProfe';
 
 const LlistatProfesCicle = props => {
   return (
-    <View style={{flex: 2, padding: 3}}>
+    <View style={{flex:2, padding: 15, alignItems:'center'}}>
+      <ScrollView>
       {props.cicleSeleccionat !== null ? (
         props.dades.unitatTics[props.cicleSeleccionat].curs[0].profes.map(
           (unModul, index) => {
             return (
-              <View
-                style={{
-                  flexDirection: 'row',
-                  alignItems: 'center',
-                  justifyContent: 'space-between',
-                }}
-                key={index}>
-                <Avatar.Icon size={36} icon={unModul.foto} />
-                <Text style={{fontSize: 16, fontWeight: '400'}}>{unModul.nom}</Text>
-              </View>
+              <TarjetaProfe
+              key={index}
+              elProfe = {unModul}
+              />
             );
           },
         )
@@ -27,7 +23,8 @@ const LlistatProfesCicle = props => {
           Selecciona un cicle. Sempre es visualitzaran els profes de 1r curs
         </Text>
       )}
-    </View>
+      </ScrollView>
+      </View>
   );
 };
 

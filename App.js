@@ -21,7 +21,7 @@ const App = () => {
     setCicleSeleccionat(posicioElement);
   };
   return (
-    <View style={{flex: 0.8 }}>
+    <View style={{flex: 1 }}>
       <View
         style={{
           flex: 1,
@@ -29,7 +29,7 @@ const App = () => {
           alignItems: 'center',
         }}>
         <Text style={styles.sectionTitle}>Unitat TICS</Text>
-        <View style={{flex: 1}}>
+        <View style={{flex: 0.8}}>
           <ScrollView horizontal={true}>
             {info.unitatTics.map((unCicleTic, index) => {
               return (
