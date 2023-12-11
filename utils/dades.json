@@ -50,6 +50,53 @@
                             "horesSetmanals": 3
                         }
                     ]
+                },
+                {
+                    "numCurs": "2n",
+                    "profes": [
+                        {
+                            "nom": "Marina",
+                            "foto": "laptop",
+                            "modul": "DAM",
+                            "nomCompletModul": "Desenvolupament d'aplicacions mòbils",
+                            "horesSetmanals": 7
+                        },
+                        {
+                            "nom": "Sergi",
+                            "foto": "bluetooth",
+                            "modul": "PRJ",
+                            "nomCompletModul": "Projecte",
+                            "horesSetmanals": 6
+                        },
+                        {
+                            "nom": "Elena",
+                            "foto": "shuffle",
+                            "modul": "UX",
+                            "nomCompletModul": "Experiència d'usuari",
+                            "horesSetmanals": 5
+                        },
+                        {
+                            "nom": "Xavier",
+                            "foto": "alarm",
+                            "modul": "DAM2",
+                            "nomCompletModul": "Desenvolupament avançat d'aplicacions mòbils",
+                            "horesSetmanals": 7
+                        },
+                        {
+                            "nom": "Marta",
+                            "foto": "wifi",
+                            "modul": "DBA",
+                            "nomCompletModul": "Administració de bases de dades",
+                            "horesSetmanals": 5
+                        },
+                        {
+                            "nom": "Albert",
+                            "foto": "bluetooth",
+                            "modul": "DAM3",
+                            "nomCompletModul": "Desplegament d'aplicacions mòbils",
+                            "horesSetmanals": 6
+                        }
+                    ]
                 }
             ]
         },
@@ -103,6 +150,53 @@
                             "horesSetmanals": 3
                         }
                     ]
+                },
+                {
+                    "numCurs": "2n",
+                    "profes": [
+                        {
+                            "nom": "Marina",
+                            "foto": "laptop",
+                            "modul": "DAM",
+                            "nomCompletModul": "Desenvolupament d'aplicacions mòbils",
+                            "horesSetmanals": 7
+                        },
+                        {
+                            "nom": "Sergi",
+                            "foto": "bluetooth",
+                            "modul": "PRJ",
+                            "nomCompletModul": "Projecte",
+                            "horesSetmanals": 6
+                        },
+                        {
+                            "nom": "Elena",
+                            "foto": "shuffle",
+                            "modul": "UX",
+                            "nomCompletModul": "Experiència d'usuari",
+                            "horesSetmanals": 5
+                        },
+                        {
+                            "nom": "Xavier",
+                            "foto": "alarm",
+                            "modul": "DAM2",
+                            "nomCompletModul": "Desenvolupament avançat d'aplicacions mòbils",
+                            "horesSetmanals": 7
+                        },
+                        {
+                            "nom": "Marta",
+                            "foto": "wifi",
+                            "modul": "DBA",
+                            "nomCompletModul": "Administració de bases de dades",
+                            "horesSetmanals": 5
+                        },
+                        {
+                            "nom": "Albert",
+                            "foto": "bluetooth",
+                            "modul": "DAM3",
+                            "nomCompletModul": "Desplegament d'aplicacions mòbils",
+                            "horesSetmanals": 6
+                        }
+                    ]
                 }
             ]
         },
@@ -154,6 +248,53 @@
                             "modul": "FOL",
                             "nomCompletModul": "Formació i orientació laboral",
                             "horesSetmanals": 3
+                        }
+                    ]
+                },
+                {
+                    "numCurs": "2n",
+                    "profes": [
+                        {
+                            "nom": "Marina",
+                            "foto": "laptop",
+                            "modul": "DAM",
+                            "nomCompletModul": "Desenvolupament d'aplicacions mòbils",
+                            "horesSetmanals": 7
+                        },
+                        {
+                            "nom": "Sergi",
+                            "foto": "bluetooth",
+                            "modul": "PRJ",
+                            "nomCompletModul": "Projecte",
+                            "horesSetmanals": 6
+                        },
+                        {
+                            "nom": "Elena",
+                            "foto": "shuffle",
+                            "modul": "UX",
+                            "nomCompletModul": "Experiència d'usuari",
+                            "horesSetmanals": 5
+                        },
+                        {
+                            "nom": "Xavier",
+                            "foto": "alarm",
+                            "modul": "DAM2",
+                            "nomCompletModul": "Desenvolupament avançat d'aplicacions mòbils",
+                            "horesSetmanals": 7
+                        },
+                        {
+                            "nom": "Marta",
+                            "foto": "wifi",
+                            "modul": "DBA",
+                            "nomCompletModul": "Administració de bases de dades",
+                            "horesSetmanals": 5
+                        },
+                        {
+                            "nom": "Albert",
+                            "foto": "bluetooth",
+                            "modul": "DAM3",
+                            "nomCompletModul": "Desplegament d'aplicacions mòbils",
+                            "horesSetmanals": 6
                         }
                     ]
                 }
